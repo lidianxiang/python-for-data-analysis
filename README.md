@@ -1,4 +1,4 @@
-# 利用Python进行数据分析
+# 利用Python进行数据分析（第二版）
 ## Python for Data Analysis:Data Wrangling with Pandas,Numpy,and Ipython
 
 ---
